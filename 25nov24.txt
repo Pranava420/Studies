@@ -1,0 +1,25 @@
+Git - version control system , helps to track changes in code
+GitHub - Platform that allows devs to store, manage their codes using git.
+README.md
+committing on GitHub platform directly
+clone - git clone <link>
+status - git status  (untracked,modified,staged,unmodified)
+add - git add <filename> / git add .
+commit - git commit -m "some message"
+push - git push origin <branchname>
+git push -u origin main #//upstream
+remote repo, local repo
+init command - git init 
+git remote add origin <link> 
+git remote -v 
+git branch
+git branch -m main 
+git checkout <branchname>
+git checkout -b <new_branch_name>
+git branch -d <branchname>
+git diff <branchname>
+pull requests
+git pull origin main
+
+
+
