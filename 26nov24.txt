@@ -1,0 +1,7 @@
+git merge <branchname>
+git reset
+git reset HEAD~1
+git log
+git reset <commit_hash_value>
+git reset --hard<commit_hash>
+forking
